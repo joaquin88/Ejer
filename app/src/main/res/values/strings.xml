@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejer</string>
+    <string name="ejemplo">practica</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Mostrar">Mostrar lista </string>
+</resources>
